@@ -2,6 +2,8 @@
 
 [冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。](https://github.com/mqyqingfeng/Blog)
 
+[木易杨](https://github.com/yygmind/blog)
+
 [一起学Node.js](https://github.com/nswbmw/N-blog)
 
 [算法 repo1](https://github.com/dongyuanxin/blog)
