@@ -4,6 +4,8 @@
 
 [木易杨](https://github.com/yygmind/blog)
 
+[hujingdong](https://github.com/hujiulong/blog)
+
 [一起学Node.js](https://github.com/nswbmw/N-blog)
 
 [算法 repo1](https://github.com/dongyuanxin/blog)
